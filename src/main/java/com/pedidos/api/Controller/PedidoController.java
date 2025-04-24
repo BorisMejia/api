@@ -2,7 +2,6 @@ package com.pedidos.api.Controller;
 
 import com.pedidos.api.model.Pedido;
 import com.pedidos.api.service.PedidoService;
-import com.pedidos.api.service.PedidoServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
